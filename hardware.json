@@ -1,0 +1,119 @@
+{
+    "hardware_parts": [
+      {
+        "name": "16GB DDR4 RAM",
+        "category": "Memory",
+        "price_kes": 8500,
+        "brand": "Corsair",
+        "image_url": "https://example.com/images/ram.jpg"
+      },
+      {
+        "name": "1TB SSD NVMe",
+        "category": "Storage",
+        "price_kes": 15000,
+        "brand": "Samsung",
+        "image_url": "https://example.com/images/ssd.jpg"
+      },
+      {
+        "name": "Gaming Graphics Card RTX 3060",
+        "category": "Graphics Card",
+        "price_kes": 48000,
+        "brand": "NVIDIA",
+        "image_url": "https://example.com/images/rtx3060.jpg"
+      },
+      {
+        "name": "Intel Core i7 13th Gen Processor",
+        "category": "Processor",
+        "price_kes": 40000,
+        "brand": "Intel",
+        "image_url": "https://example.com/images/corei7.jpg"
+      }
+    ],
+    "laptops": [
+      {
+        "name": "HP Pavilion x360",
+        "category": "Laptop",
+        "price_kes": 95000,
+        "brand": "HP",
+        "specs": "Intel Core i5, 8GB RAM, 512GB SSD, 14-inch touchscreen",
+        "image_url": "https://example.com/images/hp_pavilion.jpg"
+      },
+      {
+        "name": "MacBook Air M2",
+        "category": "Laptop",
+        "price_kes": 160000,
+        "brand": "Apple",
+        "specs": "M2 Chip, 8GB RAM, 256GB SSD, 13.6-inch Retina Display",
+        "image_url": "https://example.com/images/macbook_air.jpg"
+      },
+      {
+        "name": "Lenovo ThinkPad X1 Carbon",
+        "category": "Laptop",
+        "price_kes": 180000,
+        "brand": "Lenovo",
+        "specs": "Intel Core i7, 16GB RAM, 1TB SSD, 14-inch UHD",
+        "image_url": "https://example.com/images/thinkpad.jpg"
+      }
+    ],
+    "phones": [
+      {
+        "name": "Samsung Galaxy S24 Ultra",
+        "category": "Smartphone",
+        "price_kes": 180000,
+        "brand": "Samsung",
+        "specs": "12GB RAM, 512GB Storage, 200MP Camera, 5000mAh Battery",
+        "image_url": "https://example.com/images/s24_ultra.jpg"
+      },
+      {
+        "name": "iPhone 15 Pro Max",
+        "category": "Smartphone",
+        "price_kes": 220000,
+        "brand": "Apple",
+        "specs": "256GB Storage, A17 Bionic, 48MP Camera, Dynamic Island",
+        "image_url": "https://example.com/images/iphone_15.jpg"
+      },
+      {
+        "name": "Google Pixel 8 Pro",
+        "category": "Smartphone",
+        "price_kes": 140000,
+        "brand": "Google",
+        "specs": "12GB RAM, 256GB Storage, Google Tensor G3, 50MP Camera",
+        "image_url": "https://example.com/images/pixel_8.jpg"
+      }
+    ],
+    "other_devices": [
+      {
+        "name": "Samsung 27-inch Curved Monitor",
+        "category": "Monitor",
+        "price_kes": 35000,
+        "brand": "Samsung",
+        "specs": "27-inch, 144Hz, 1ms Response Time, Full HD",
+        "image_url": "https://example.com/images/samsung_monitor.jpg"
+      },
+      {
+        "name": "Logitech MX Master 3",
+        "category": "Mouse",
+        "price_kes": 13000,
+        "brand": "Logitech",
+        "specs": "Wireless, Ergonomic, USB-C Charging",
+        "image_url": "https://example.com/images/mx_master3.jpg"
+      },
+      {
+        "name": "Sony WH-1000XM5 Headphones",
+        "category": "Headphones",
+        "price_kes": 50000,
+        "brand": "Sony",
+        "specs": "Wireless, Noise Cancelling, 30h Battery Life",
+        "image_url": "https://example.com/images/sony_wh1000xm5.jpg"
+      },
+      {
+        "name": "Apple iPad Pro 12.9-inch (M2)",
+        "category": "Tablet",
+        "price_kes": 180000,
+        "brand": "Apple",
+        "specs": "M2 Chip, 256GB Storage, 120Hz ProMotion Display",
+        "image_url": "https://example.com/images/ipad_pro.jpg"
+      }
+    ]
+  }
+  
