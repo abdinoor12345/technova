@@ -12,7 +12,7 @@
         "category": "Storage",
         "price_kes": 15000,
         "brand": "Samsung",
-        "image_url": ""https://res.cloudinary.com/dd2shhmgr/image/upload/v1741433706/1TB_SSD_NVMe_mhpttj.jpg
+        "image_url": "https://res.cloudinary.com/dd2shhmgr/image/upload/v1741433706/1TB_SSD_NVMe_mhpttj.jpg",
       },
       {
         "name": "Gaming Graphics Card RTX 3060",
