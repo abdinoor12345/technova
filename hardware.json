@@ -19,7 +19,7 @@
         "category": "Graphics Card",
         "price_kes": 48000,
         "brand": "NVIDIA",
-        "image_url": "https://example.com/images/rtx3060.jpg"
+        "image_url": "https://res.cloudinary.com/dd2shhmgr/image/upload/v1741434008/Graphics_Card_zrbqlk.jpg"
       },
       {
         "name": "Intel Core i7 13th Gen Processor",
