@@ -1,6 +1,7 @@
-  {
+ {
   "hardware_parts": [
     {
+      "id": 1,
       "name": "16GB DDR4 RAM",
       "category": "Memory",
       "price_kes": 8500,
@@ -8,6 +9,7 @@
       "image_url": "https://res.cloudinary.com/dd2shhmgr/image/upload/v1741433448/16GB_DDR4_RAM_tgoyhs.jpg"
     },
     {
+      "id": 2,
       "name": "1TB SSD NVMe",
       "category": "Storage",
       "price_kes": 15000,
@@ -15,6 +17,7 @@
       "image_url": "https://res.cloudinary.com/dd2shhmgr/image/upload/v1741433706/1TB_SSD_NVMe_mhpttj.jpg"
     },
     {
+      "id": 3,
       "name": "Gaming Graphics Card RTX 3060",
       "category": "Graphics Card",
       "price_kes": 48000,
@@ -22,6 +25,7 @@
       "image_url": "https://res.cloudinary.com/dd2shhmgr/image/upload/v1741434008/Graphics_Card_zrbqlk.jpg"
     },
     {
+      "id": 4,
       "name": "Intel Core i7 13th Gen Processor",
       "category": "Processor",
       "price_kes": 40000,
@@ -31,6 +35,7 @@
   ],
   "laptops": [
     {
+      "id": 5,
       "name": "HP Pavilion x360",
       "category": "Laptop",
       "price_kes": 95000,
@@ -39,6 +44,7 @@
       "image_url": "https://example.com/images/hp_pavilion.jpg"
     },
     {
+      "id": 6,
       "name": "MacBook Air M2",
       "category": "Laptop",
       "price_kes": 160000,
@@ -47,6 +53,7 @@
       "image_url": "https://example.com/images/macbook_air.jpg"
     },
     {
+      "id": 7,
       "name": "Lenovo ThinkPad X1 Carbon",
       "category": "Laptop",
       "price_kes": 180000,
@@ -57,6 +64,7 @@
   ],
   "phones": [
     {
+      "id": 8,
       "name": "Samsung Galaxy S24 Ultra",
       "category": "Smartphone",
       "price_kes": 180000,
@@ -65,6 +73,7 @@
       "image_url": "https://example.com/images/s24_ultra.jpg"
     },
     {
+      "id": 9,
       "name": "iPhone 15 Pro Max",
       "category": "Smartphone",
       "price_kes": 220000,
@@ -73,6 +82,7 @@
       "image_url": "https://example.com/images/iphone_15.jpg"
     },
     {
+      "id": 10,
       "name": "Google Pixel 8 Pro",
       "category": "Smartphone",
       "price_kes": 140000,
@@ -83,6 +93,7 @@
   ],
   "other_devices": [
     {
+      "id": 11,
       "name": "Samsung 27-inch Curved Monitor",
       "category": "Monitor",
       "price_kes": 35000,
@@ -91,6 +102,7 @@
       "image_url": "https://example.com/images/samsung_monitor.jpg"
     },
     {
+      "id": 12,
       "name": "Logitech MX Master 3",
       "category": "Mouse",
       "price_kes": 13000,
@@ -99,6 +111,7 @@
       "image_url": "https://example.com/images/mx_master3.jpg"
     },
     {
+      "id": 13,
       "name": "Sony WH-1000XM5 Headphones",
       "category": "Headphones",
       "price_kes": 50000,
@@ -107,6 +120,7 @@
       "image_url": "https://example.com/images/sony_wh1000xm5.jpg"
     },
     {
+      "id": 14,
       "name": "Apple iPad Pro 12.9-inch (M2)",
       "category": "Tablet",
       "price_kes": 180000,
@@ -116,14 +130,3 @@
     }
   ]
 }
- ​
-
-
-
-
-
-
-
-
-
-
