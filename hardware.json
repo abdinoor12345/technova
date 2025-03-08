@@ -5,7 +5,7 @@
         "category": "Memory",
         "price_kes": 8500,
         "brand": "Corsair",
-        "image_url": "https://example.com/images/ram.jpg"
+        "image_url": "https://res.cloudinary.com/dd2shhmgr/image/upload/v1741433448/16GB_DDR4_RAM_tgoyhs.jpg"
       },
       {
         "name": "1TB SSD NVMe",
