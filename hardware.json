@@ -117,8 +117,7 @@
       "price_kes": 50000,
       "brand": "Sony",
       "specs": "Wireless, Noise Cancelling, 30h Battery Life",
-      "image_url": "https://example.com/images/sony_wh1000xm5.jpg"
-    },
+      "image_url": "https://example.com/images/sony_wh1000xm5.jpg"},
     {
       "id": 14,
       "name": "Apple iPad Pro 12.9-inch (M2)",
@@ -126,7 +125,6 @@
       "price_kes": 180000,
       "brand": "Apple",
       "specs": "M2 Chip, 256GB Storage, 120Hz ProMotion Display",
-      "image_url": "https://example.com/images/ipad_pro.jpg"
-    }
+      "image_url": "https://example.com/images/ipad_pro.jpg" }
   ]
 }
